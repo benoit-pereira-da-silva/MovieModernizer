@@ -1,6 +1,9 @@
 # MovieModernizer
 
-A Objc Cocoa Framework that allows to use QTMovieModernizer in swift. Compliant with targets from macOS9 to macOS13. Apple has dropped the QTKit support in macOS11 so if you need to convert from legacy format you can use this framework.
+Apple has dropped the QTKit support in macOS11. So if you need to convert some movies from Quicktime legacy format you can use this framework.
+
+- **It is an Objc Cocoa Framework that allows to call in swift 2 to 4.*
+- **Compliant with targets from macOS9 to macOS1X** with no restriction. 
 
 
 # Carthage Compatible
@@ -12,6 +15,8 @@ Add  `github "benoit-pereira-da-silva/MovieModernizer"` to your Cartfile
 
 
 # Swift 4 integration sample.
+
+You need to create a bridging header. Refer to [ MixandMatch ](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html) on developer.apple.com
 
 ## Import MovieModernizer in your Bridging header
 
