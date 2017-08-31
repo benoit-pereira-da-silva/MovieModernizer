@@ -2,8 +2,8 @@
 
 Apple has dropped the QTKit support in macOS11. So if you need to convert some movies from Quicktime legacy format you can use this framework.
 
-- **It is an Objc Cocoa Framework that allows to call in swift 2 to 4.**
-- **Compliant with targets from macOS9 to macOS1X** with no restriction. 
+- It is an Objc Cocoa Wrapper around <QTKit/QTMovieModernizer> that you can even call from swift 3,4
+- It works with targets from macOS10.9 to macOS10.X with no restriction. 
 
 
 # Carthage Compatible
