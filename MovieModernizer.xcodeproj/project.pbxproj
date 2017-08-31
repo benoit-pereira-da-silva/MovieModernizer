@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E59C273B1F582F0C00D92B56 /* Modernizer.h in Headers */ = {isa = PBXBuildFile; fileRef = E59C27391F582F0C00D92B56 /* Modernizer.h */; };
+		E59C273B1F582F0C00D92B56 /* Modernizer.h in Headers */ = {isa = PBXBuildFile; fileRef = E59C27391F582F0C00D92B56 /* Modernizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E59C273C1F582F0C00D92B56 /* Modernizer.m in Sources */ = {isa = PBXBuildFile; fileRef = E59C273A1F582F0C00D92B56 /* Modernizer.m */; };
 		E5EF57B41F582DF90086E395 /* MovieModernizer.h in Headers */ = {isa = PBXBuildFile; fileRef = E5EF57B21F582DF90086E395 /* MovieModernizer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */

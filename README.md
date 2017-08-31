@@ -13,6 +13,14 @@ Add  `github "benoit-pereira-da-silva/MovieModernizer"` to your Cartfile
 
 # Swift 4 integration sample.
 
+## Import MovieModernizer in your Bridging header
+
+```
+#import <MovieModernizer/Modernizer.h>
+```
+
+## You can now modernize legacy QuickTime Movies
+
 
 ```swift
 
